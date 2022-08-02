@@ -288,15 +288,20 @@ nav ul li {
 
     .bottom .content{
         width: 100%;
-        height: 30px;
+        height: 80px;
     }
 
     .bottom .content .icon-content .icons i{
         font-size: 14px;
     }
-    
+
     #masterSongName{
         font-size: 12px;
+    }
+
+
+    .bottom .content input{
+        height: 5px;
     }
     
   }
